@@ -1,0 +1,17 @@
+google-play-scraper
+pandas
+numpy
+nltk
+spacy
+textblob
+scikit-learn
+gensim
+matplotlib
+seaborn
+plotly
+cx_Oracle
+streamlit
+bertopic
+python-dotenv
+jinja2
+pytest
