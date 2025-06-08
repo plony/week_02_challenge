@@ -15,3 +15,7 @@ bertopic
 python-dotenv
 jinja2
 pytest
+transformers
+torch # For Hugging Face Transformers
+python-oracledb # For Oracle DB connection
+configparser # For reading db_config.ini
